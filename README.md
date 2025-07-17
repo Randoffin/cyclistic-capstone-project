@@ -5,8 +5,11 @@ Project Objective
 This capstone project explores how Cyclistic bike-share users (annual members vs. casual riders) differ in their ride behavior and how data insights can help convert casual riders into members using digital marketing strategies.
 
 Data Source
+
 Two Excel datasets were used:
+
 Divvy_Trips_2019.xlsx
+
 Divvy_Trips_2020.xlsx
 
 These were cleaned, merged, and transformed in RStudio into a single dataset all_trips. Key transformations included:
@@ -16,8 +19,11 @@ Standardizing rider types as "member" and "casual"
 Filtering out rides with negative durations or missing data
 
 Tools Used
+
 R/RStudio: For data cleaning, transformation, analysis
+
 ggplot2 & dplyr: For data wrangling and visualization prep
+
 Tableau Public: For creating visual dashboards
 
 Visualizations Built in Tableau Public
