@@ -1,11 +1,14 @@
 Cyclistic Bike-Share Capstone Project Report
 
 Project Objective
+
 This capstone project explores how Cyclistic bike-share users (annual members vs. casual riders) differ in their ride behavior and how data insights can help convert casual riders into members using digital marketing strategies.
+
 Data Source
 Two Excel datasets were used:
 Divvy_Trips_2019.xlsx
 Divvy_Trips_2020.xlsx
+
 These were cleaned, merged, and transformed in RStudio into a single dataset all_trips. Key transformations included:
 Creation of new fields: ride_length, ride_year, ride_month, day_of_week, hour_of_day
 Conversion of ride duration to numeric minutes
