@@ -1,4 +1,5 @@
 Cyclistic Bike-Share Capstone Project Report
+
 Project Objective
 This capstone project explores how Cyclistic bike-share users (annual members vs. casual riders) differ in their ride behavior and how data insights can help convert casual riders into members using digital marketing strategies.
 Data Source
