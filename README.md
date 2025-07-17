@@ -68,13 +68,16 @@ Cleaned Dataset: Cyclistic_cleaned_data.csv
 R Script: cyclistic_analysis_script.R
 
 #Install & Load Required Libraries
+
 install.packages(c("readxl", "dplyr", "tidyr", "lubridate", "ggplot2", "janitor", “modeest”))
+
 library(readxl)     # To read Excel files
 library(dplyr)      # For data manipulation
 library(tidyr)      # For data reshaping
 library(lubridate)  # For date/time cleaning
 library(janitor)    # For cleaning column names
 library(modeest) # For Calculating mode
+
 #Import Your Excel Files
 # Read 2019 and 2020 data
 data_2019 <- read_excel("C:\\Rproj\\data\\Divvy_Trips_2019_Q1.xlsx")
