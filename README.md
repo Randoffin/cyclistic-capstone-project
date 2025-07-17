@@ -64,7 +64,9 @@ Use ride data to automate targeted campaigns (e.g., after 3 rides/month).
 Files Delivered
 
 Cleaned Dataset: Cyclistic_cleaned_data.csv
+
 R Script: cyclistic_analysis_script.R
+
 Tableau Dashboard: https://public.tableau.com/app/profile/uchenna.abaah/vizzes
 
    
