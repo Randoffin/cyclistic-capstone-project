@@ -43,22 +43,26 @@ Key Business Questions Answered
 Members ride more frequently and on weekdays.
 Casual riders prefer weekends and take longer trips.
 Members likely use bikes for commuting; casual riders for leisure.
-2. Why might casual riders become members?
+
+3. Why might casual riders become members?
 Frequent or long-ride casual users would benefit from cost savings.
 Riders who repeat usage may prefer flexibility and convenience of membership.
 Environmental awareness or improved bike network may influence the shift.
-3. How can digital media help convert casuals to members?
+
+5. How can digital media help convert casuals to members?
 Use digital marketing to target high-frequency casuals.
 Personalized emails showing monthly savings as a member.
 Offer trial memberships or referral discounts via the mobile app.
 Promote benefits using social media ads tailored to weekend riders.
 
 Recommendations
+
 Analyze casual rider patterns to identify strong membership candidates.
 Deploy app-based incentives: ride X times → get a discount code.
 Use ride data to automate targeted campaigns (e.g., after 3 rides/month).
 
 Files Delivered
+
 Cleaned Dataset: Cyclistic_cleaned_data.csv
 R Script: cyclistic_analysis_script.R
 Tableau Dashboard: https://public.tableau.com/app/profile/uchenna.abaah/vizzes
