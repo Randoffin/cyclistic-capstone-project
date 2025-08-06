@@ -1,12 +1,18 @@
 Cyclistic Bike-Share Capstone Project
 
-Introduction
+Introduction/Overview
 
 This capstone case study explores how Cyclistic bike-share users (annual members vs. casual riders) differ in their ride behavior and how data insights can help convert casual riders into members using digital marketing strategies.
 The Cyclistic bike-share analysis case study is for a
 fictional company, Cyclistic. In order to answer the
-business questions, I will follow the steps of the data analysis process: Ask, Prepare, Process,
+business questions, I followed the steps of the data analysis process: Ask, Prepare, Process,
 Analyze, Share, and Act. 
+
+Business Tasks
+
+Goal:
+
+Help Cyclistic's marketing team convert more casual riders into annual members by analyzing how different types of riders use the service.
 
 Scenario/Background
 
@@ -52,6 +58,8 @@ ggplot2 & dplyr: For data wrangling and visualization prep
 
 Tableau Public: For creating visual dashboards
 
+GitHub: For version control and project documentation
+
 Data cleaning, exploration, & combining:
 
 The two datasets were cleaned, merged, and transformed in RStudio into a single dataset all_trips. Key transformations included:
@@ -94,7 +102,7 @@ v. Share
 
 <img width="987" height="949" alt="Dashboard 1" src="https://github.com/user-attachments/assets/bd929289-7583-470a-8dff-10065e57c27f" />
 
-Key Business Questions Answered:
+Key Business Questions Answered (Key insights):
 
 1. How do annual members and casual riders differ?
    
@@ -126,9 +134,15 @@ Dashboard Link: [https://public.tableau.com/app/profile/uchenna.abaah/vizzes]
 
 vi. Act
    
-Recommendations:
+Conclusion & Recommendations:
 
-Analyze casual rider patterns to identify strong membership candidates.
+To increase member conversions:
+
+Offer weekend members discounts or loyallty points for frequent casual riders.
+
+Promote membership benefits during peak summer periods.
+
+Highlight faster checkout, customer service, and perks to casusl users.
 
 Deploy app-based incentives: ride X times → get a discount code.
 
