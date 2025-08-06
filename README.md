@@ -124,7 +124,7 @@ Promote benefits using social media ads tailored to weekend riders.
 
 Dashboard Link: [https://public.tableau.com/app/profile/uchenna.abaah/vizzes]
 
-7. Act
+vi. Act
    
 Recommendations:
 
