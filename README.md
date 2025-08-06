@@ -72,11 +72,15 @@ Members take shorter, more consistent rides across weekdays.
 
 Casual riders tend to take longer rides on weekends.
 
+(visualizations/Average Ride Length by Member Type and Day of Week.png)
+
 2.	Number of Rides by Day of Week
    
 Members ride most during weekdays.
 
 Casual riders ride more on weekends.
+
+(visualizations/Number of Rides by Day of Week.png)
 
 3. Monthly Trends (Jan–Mar due to available data)
    
@@ -84,7 +88,11 @@ Casual rider usage spikes during weekends even within the short observed period.
 
 Membership usage remains relatively steady.
 
+(visualizations/Monthly Trends.png)
+
 v. Share
+
+(visualizations/Dashboard 1.png)
 
 Key Business Questions Answered:
 
