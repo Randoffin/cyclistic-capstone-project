@@ -72,7 +72,10 @@ Members take shorter, more consistent rides across weekdays.
 
 Casual riders tend to take longer rides on weekends.
 
+<img src="visualizations/Average_Length_by_Member_Type_and_Day_of_Week.png" alt="Description" width="300"/>
+
 (visualizations/Average Ride Length by Member Type and Day of Week.png)
+<img width="262" height="1038" alt="Average Ride Length by Member Type and Day of Week" src="https://github.com/user-attachments/assets/3189a9b5-0a48-4e1b-954f-d6d8b6c12f03" />
 
 2.	Number of Rides by Day of Week
    
